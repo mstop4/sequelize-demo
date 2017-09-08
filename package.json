@@ -1,0 +1,19 @@
+{
+  "name": "sequelize-demo",
+  "version": "1.0.0",
+  "description": "Sequelize CLI Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstop4/sequelize-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstop4/sequelize-demo/issues"
+  },
+  "homepage": "https://github.com/mstop4/sequelize-demo#readme"
+}
